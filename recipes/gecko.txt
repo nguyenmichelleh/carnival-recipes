@@ -4,8 +4,14 @@ Audrey's Meatloaf
 Servings: 8
 Time: 1 hour
 
+<<<<<<< HEAD
+LALALLALALALALALALLALALALA
+
+
+=======
 2 pounds Ground Beef
 10 slices Thin/regular Bacon
+>>>>>>> 56383db80fdff86835e56ea86639f99d90058f10
 1 cup Whole Milk
 1-1/2 cup Ketchup
 Tabasco To Taste
